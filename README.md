@@ -1,6 +1,6 @@
 # Unbeatable TicTacToe
 
-## Python
+## Python (3.x)
 
 The tic-tac-toe is a game, also known as sticks and stones. It is a two player game.
 
